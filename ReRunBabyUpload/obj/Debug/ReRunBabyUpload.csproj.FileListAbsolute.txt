@@ -1,0 +1,17 @@
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ReRunBabyUpload.exe.config
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ReRunBabyUpload.exe
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ReRunBabyUpload.pdb
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.dll
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.pdb
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.xml
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.csproj.AssemblyReference.cache
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.Form1.resources
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.Properties.Resources.resources
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.csproj.GenerateResource.cache
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBab.D0BFC1FE.Up2Date
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.exe
+C:\Users\linda\source\repos\ReRunBabyUpload\ReRunBabyUpload\obj\Debug\ReRunBabyUpload.pdb
